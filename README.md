@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # 📐 GANN MARKET GEOMETRY ENCYCLOPEDIA
