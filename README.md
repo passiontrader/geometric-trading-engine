@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 📐 GANN MARKET GEOMETRY ENCYCLOPEDIA
+# 📐 GEOMETRIC TRADING ENGINE
 
 ### *The Complete Rulebook for Price & Time Forecasting*
 
